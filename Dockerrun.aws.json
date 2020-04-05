@@ -1,0 +1,13 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "centos",
+    "Update": "false"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "80"
+    }
+  ]
+  
+}
